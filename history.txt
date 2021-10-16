@@ -1,0 +1,365 @@
+    1  date
+    2  ls
+    3  ifconfig -a
+    4  close
+    5  exit
+    6  sudo
+    7  sudo root
+    8  sudo -
+    9  sudo -root
+   10  sudo root
+   11  clear
+   12  sudo apt
+   13  sudo
+   14  sudo user
+   15  sudo -user
+   16  sudo scott
+   17  sudo -scott
+   18  apt
+   19  wget https://packages.microsoft.com/repos/ms-teams/pool/main/t/teams/teams_${VERSION}_amd64.deb
+   20  VERSION=1.3.00.16851
+   21  wget https://packages.microsoft.com/repos/ms-teams/pool/main/t/teams/teams_${VERSION}_amd64.deb
+   22  wget https://zoom.us/client/latest/zoom_amd64.deb
+   23  clear
+   24  sudo apt install ./zoom_amd64.deb 
+   25  zoom
+   26  wget https://packages.microsoft.com/repos/ms-teams/pool/main/t/teams/teams_${VERSION}_amd64.deb
+   27  wget https://packages.microsoft.com/repos/ms-teams/pool/main/t/teams/teams_1.3.00.16851__amd64.deb1
+   28  wget https://packages.microsoft.com/repos/ms-teams/pool/main/t/teams/teams_1.3.00.16851_amd64.deb1
+   29  wget https://packages.microsoft.com/repos/ms-teams/pool/main/t/teams/teams_1.3.00.16851_amd64.deb
+   30  teams
+   31  suso apt install ./teams_1.3.00.16851_amd64.deb
+   32  sudo apt install ./teams_1.3.00.16851_amd64.deb
+   33  teams
+   34  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+   35  $ git clone git://github.com/pbatard/rufus
+   36  dd
+   37  sudo dd if=/path/to/filename.iso of=/dev/sdX bs=4M
+   38  wget https://launchpad.net/~colingille/+archive/freshlight/+files/winusb_1.0.11+saucy1_amd64.deb
+   39  sudo dpkg -i winusb*
+   40  sudo apt-get -f install
+   41  sudo apt autoremove
+   42  ./winusb
+   43  ./teams
+   44  .\teams
+   45  winusb
+   46  teams
+   47  Winsub
+   48  winUsb
+   49  pwd
+   50  st
+   51  ls
+   52  yum install VirtualBox-6.1
+   53  deb [arch=amd64] https://download.virtualbox.org/virtualbox/debian <mydist> contrib
+   54  wget -q https://www.virtualbox.org/download/oracle_vbox_2016.asc -O- | sudo apt-key add -
+   55  wget -q https://www.virtualbox.org/download/oracle_vbox.asc -O- | sudo apt-key add -
+   56  B9F8 D658 297A F3EF C18D  5CDF A2F6 83C5 2980 AECF
+   57  Oracle Corporation (VirtualBox archive signing key) <info@virtualbox.org>
+   58  sudo apt-get update
+   59  sudo apt-get install virtualbox-6.1
+   60  neofetch
+   61  sudo apt install neofetch
+   62  neofetch
+   63  sudo apt remove elementary-default-settings
+   64  sudo apt remove switchboard-gnome-control-center
+   65  sudo vim /etc/apt/sources.list.d/appCenter.list
+   66  sudo apt-get update
+   67  sudo apt-get dist-upgrade
+   68  sudo add-apt-repository ppa:elementary-os/daily
+   69  sudo apt-get update
+   70  sudo apt install elementary-desktop
+   71  apt --fix-broken install
+   72  sudo apt --fix-broken install
+   73  sudo apt install elementary-desktop
+   74  apt --fix-broken install
+   75  chmod +x ./unetbootin-linux,
+   76  chmod +x ./unetbootin-linux
+   77  chmod +x ./unetbootin-linux-681
+   78  chmod +x ./unetbootin-linux-681.bin
+   79  ./unetbootin-linux
+   80  cd
+   81  cd Downloads
+   82  ./unetbootin-linux
+   83  chmod +x ./unetbootin-linux-681.bin
+   84  chmod +x ./unetbootin-linux-681
+   85  sudo QT_X11_NO_MITSHM=1 /home/scott/Downloads/unetbootin-linux64-681.bin
+   86  chmod +x ./unetbootin-linux64-681.bin
+   87  ./unetbootin-linux
+   88  ./unetbootin-linux64-681
+   89  ./unetbootin-linux64-681.bin
+   90  sudo QT_X11_NO_MITSHM=1 /home/scott/Downloads/unetbootin-linux64-681.bin
+   91  ./ventoy-1.0.22-linux
+   92  sudo sh Ventoy2Disk.sh { -i | -I | -u } /dev/sdX 
+   93  diskpart
+   94  partition
+   95  ls
+   96  cd
+   97  ls -l
+   98  ls -l -a
+   99  ls -a
+  100  [2~[3~
+  101  [5~~~
+  102  cd cd /
+  103  cd /
+  104  cd Doc
+  105  cd
+  106  cd Documents
+  107  cd Documents/
+  108  cd
+  109  cd Documents/
+  110  sudo su
+  111  exit
+  112  ls 
+  113  ls -l 
+  114  ls -l  -a
+  115  cd
+  116  sudo su
+  117  exit
+  118  pkg update
+  119  pkg install git
+  120  sudo apt update
+  121  su root
+  122  sudo apt install git
+  123  git --version
+  124  python --version
+  125  python 2 --version
+  126  python2 --version
+  127  sudo apt-get install python3.8 python3-pip
+  128  python --version
+  129  tar cvf Python-2.7.18
+  130  tar cvf Python-2.7.18.tgz
+  131  tar cvf Python -2.7.18.tgz
+  132  tar xvf Python -2.7.18.tgz
+  133  tar xvf Python-2.7.18.tgz
+  134  sudo tar -xf git.tar.gz
+  135  cd
+  136  sudo tar -xf git.tar.gz
+  137  python3 -version
+  138  python3 --version
+  139  get-pip.py
+  140  git --version
+  141  sudo apt update 
+  142  git --version
+  143  udo apt install make libssl-dev libghc-zlib-dev libcurl4-gnutls-dev libexpat1-dev gettext unzip
+  144  sudo apt install make libssl-dev libghc-zlib-dev libcurl4-gnutls-dev libexpat1-dev gettext unzip
+  145  cd /scott/src/
+  146  cd /usr/src/
+  147  sudo wget https://github.com/git/git/archive/v2.23.0.tar.gz -O git.tar.gz
+  148  sudo tar -xf git.tar.gz
+  149  cd git-*
+  150  sudo make prefix=/usr/local all
+  151  sudo make prefix=/usr/local install
+  152  git --version
+  153  cd
+  154  git config --global user.name "Tshwanelo Wiseman Mofokeng"
+  155  git config --global user.email "tshwanelo.mofokeng@gmail.com"
+  156  git config --list
+  157  /bin/python3 /home/scott/Desktop/Umuzi/winning.py
+  158  pytho3 winning.py
+  159  python3 winning.py
+  160  /bin/python3 /home/scott/Desktop/Umuzi/winning.py
+  161  python3 /home/scott/Desktop/Umuzi/winning.py
+  162  /bin/python3 /home/scott/Desktop/Umuzi/winning.py
+  163  /bin/python3 /home/scott/Desktop/Umuzi/sololearn.py
+  164  sudo apt-get update $ sudo apt-get install git.
+  165  sudo apt-get update $ sudo apt-get install git
+  166  sudo apt-get update
+  167  def print_numbers():
+  168  sudo apt-get install git
+  169  git
+  170  whoami
+  171  whoami /usr
+  172  whoami /user
+  173  /user
+  174  whoami /all
+  175  global
+  176  /bin/python3 "/home/scott/Desktop/Umuzi/Multiple condi.py"
+  177  '/home/scott/Desktop/Umuzi/important.md'
+  178  /bin/python3 "/home/scott/Desktop/Umuzi/mod 2.py"
+  179  apt-get install git
+  180  sudo apt-get install git
+  181  add-apt-repository ppa:git-core/ppa
+  182  sudo add-apt-repository ppa:git-core/ppa
+  183  apt update
+  184  sudo apt update
+  185  git --version
+  186  sudo apt install git
+  187  git --version
+  188  git config --global usern.name "Wiseman"
+  189  git config --global user.email "t.mofo@outlook.com"
+  190  whoami
+  191  git config --list
+  192  ls /data
+  193  ls
+  194  ls /
+  195  pwd
+  196  man git
+  197  git man
+  198  --system to git config
+  199  git init
+  200  git config --global init.defaultBranch main
+  201  git config --list 
+  202  mkdir git-basic-excercises
+  203  ls
+  204  mkdir git-basic-exercises
+  205  ls
+  206  cd basic-execises
+  207  cd basic-exercises
+  208  cd git-basic-exercises
+  209  ls -a
+  210  git-init
+  211  git init
+  212  ls -a
+  213  git status 
+  214  touch README.md
+  215  ls
+  216  ls -a
+  217  git status 
+  218  git log
+  219  git add
+  220  git add README
+  221  git add README.md
+  222  git log
+  223  git status 
+  224  git rm README.md
+  225  git status 
+  226  git rm -f README.md
+  227  git status 
+  228  git add README.md
+  229  git status 
+  230  git add README.md
+  231  git init
+  232  git add README.md
+  233  git add -f  README.md
+  234  git add README.md
+  235  git status 
+  236  git add README
+  237  git add README.md
+  238  git reset HEAD README.md
+  239  git reset README.md
+  240  git rm README.md
+  241  cd
+  242  mkdir git-basic-exercises
+  243  ls
+  244  cd git-basic-exercises/
+  245  ls -a
+  246  git init
+  247  ls -a
+  248  git status
+  249  touch README.md
+  250  ls -a
+  251  git status
+  252  git log
+  253  git add README.md 
+  254  git status
+  255  git reset README.md
+  256  git status
+  257  git add README.md 
+  258  git status
+  259  git commit -m "Initial commit"
+  260  git log
+  261  q
+  262  nano README.md 
+  263  y
+  264  nano README.md 
+  265  cat README.md 
+  266  git status
+  267  git commit "second commit" 
+  268  git commit -m "second commit" 
+  269  git add README.md 
+  270  git status
+  271  git commit -m "second commit" 
+  272  git commit -m "this is third commit" 
+  273  git log
+  274  git status
+  275  ls -a
+  276  git status
+  277  cat README.md 
+  278  git status
+  279  git add README.md 
+  280  git log
+  281  git commit -m "this is third commit" 
+  282  git add README.md 
+  283  git reset README.md
+  284  git status
+  285  cd
+  286  cd git-basic-exercises/
+  287  git status
+  288  ls -a
+  289  git status
+  290  --quite
+  291  --exit code
+  292  git commit -a -m "this is third commit" 
+  293  git commit -a "this is third commit" 
+  294  git commit -a -m "this is third commit" || true
+  295  echo README.md >> modified
+  296  git status
+  297  git log
+  298  git commit -m "this is third commit" 
+  299  git add README.md 
+  300  git status
+  301  git checkout master
+  302  git checkout main
+  303  echo ""  >> README.md 
+  304* git status
+  305  git checkout main
+  306  git commit -m "this is third commit" 
+  307  git add README.md 
+  308  git status
+  309  git commit -m "this is third commit" 
+  310  git log
+  311  q
+  312  git checkout 4a81eae04dc94ddb36c0774b2c3925057ab500fb
+  313  cat README.md 
+  314  git checkout main
+  315  cat README.md 
+  316  git branch
+  317  git branch milkshake-flavours
+  318  ls -a
+  319  git branch
+  320  git switch
+  321  git switch milkshake-flavours
+  322  git checkout
+  323  git branch
+  324  nano milkhsakes.md
+  325  cat milkhsakes.md 
+  326  git status
+  327  git commit "added initial flavours"
+  328  git commit -m "added initial flavours"
+  329  git log
+  330  git add milkhsakes.md 
+  331  git commit -m "added initial flavours"
+  332  git log
+  333  git checkout
+  334  git status
+  335  git branch
+  336  git checkout
+  337  git status
+  338  git checkout
+  339  git status
+  340  git branch
+  341  git checkout
+  342  git branch
+  343  git log
+  344  git switch
+  345  git switch main
+  346  git status
+  347  git commit -m "added initial flavours"
+  348  git checkout
+  349  git status
+  350  git log
+  351  git branch
+  352  git switch 
+  353  git switch milkshake-flavours 
+  354  git commit -m "added initial flavours"
+  355  git log
+  356  git switch main
+  357  git checkout
+  358  git status
+  359  git branch history
+  360  git status
+  361  git log
+  362  git checkout
+  363  git status
+  364  git branch
+  365  history>history.txt
